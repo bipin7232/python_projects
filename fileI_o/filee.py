@@ -1,0 +1,6 @@
+file = open("example.txt", "w")
+file.write("Hello Bipin!")
+file.close()
+file = open("example.txt", "a")
+file.write("\nhero bipin")
+file.close()

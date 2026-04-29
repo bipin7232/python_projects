@@ -1,0 +1,2 @@
+i am hero
+C:\Users\LENOVO\Desktop\python\fileI_o\demo.txt
