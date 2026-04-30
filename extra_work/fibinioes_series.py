@@ -5,8 +5,9 @@ def febini():
     secondNum = 1
 
     for i in range(num):
+        print(firstNum, end=" ")
         lastnum = firstNum + secondNum
-        print(lastnum, end=" ")
+      
 
         firstNum = secondNum
         secondNum = lastnum
